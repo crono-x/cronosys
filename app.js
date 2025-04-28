@@ -3,8 +3,11 @@ Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOi
 
 // Inicializar Cesium Viewer con el cambio en el Terrain Provider
 const viewer = new Cesium.Viewer('cesiumContainer', {
+  imageryProvider: new Cesium.UrlTemplateImageryProvider({
+    url: 'https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg'
+  }),
   terrainProvider: new Cesium.CesiumTerrainProvider({
-    url: Cesium.IonResource.fromAssetId(1)  // ID del terreno de Cesium Ion
+    url: 'https://assets.agi.com/stk-terrain/v1/tilesets/world/tiles'
   }),
   animation: false,
   timeline: true,
