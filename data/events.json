@@ -1,0 +1,36 @@
+[
+    {
+      "id": "event1",
+      "title": "Descubrimiento de América",
+      "description": "Cristóbal Colón llegó al continente americano en 1492.",
+      "date": "1492-10-12",
+      "year": 1492,
+      "era": "Edad Moderna",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "category": "Descubrimientos"
+    },
+    {
+      "id": "event2",
+      "title": "Caída de Constantinopla",
+      "description": "La ciudad cayó en manos del Imperio Otomano en 1453.",
+      "date": "1453-05-29",
+      "year": 1453,
+      "era": "Edad Media",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "category": "Guerras"
+    },
+    {
+      "id": "event3",
+      "title": "Inicio de la Revolución Industrial",
+      "description": "Comienzo de cambios tecnológicos y sociales en Inglaterra.",
+      "date": "1760-01-01",
+      "year": 1760,
+      "era": "Edad Moderna",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "category": "Avances Científicos"
+    }
+  ]
+  
