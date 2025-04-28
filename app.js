@@ -1,8 +1,5 @@
-// Cargar la librería dotenv para leer las variables de entorno
-require('dotenv').config();
-
-// Enlazar con tu cuenta de Cesium ion usando el token desde la variable de entorno
-Cesium.Ion.defaultAccessToken = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxNTIwZGMxOC1kNTliLTQxNTgtYjYwNi05MDVkYmI4N2YwMjYiLCJpZCI6Mjk3Njk4LCJpYXQiOjE3NDU4MTU1MDN9.Mijr9cAtS579wWJfR3lidsSX25viA9Yk-DvJoxNrP_w;
+// Enlazar con tu cuenta de Cesium ion
+Cesium.Ion.defaultAccessToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxNTIwZGMxOC1kNTliLTQxNTgtYjYwNi05MDVkYmI4N2YwMjYiLCJpZCI6Mjk3Njk4LCJpYXQiOjE3NDU4MTU1MDN9.Mijr9cAtS579wWJfR3lidsSX25viA9Yk-DvJoxNrP_w";
 
 async function initCesium() {
   try {
@@ -98,6 +95,7 @@ async function initCesium() {
 }
 
 initCesium();
+
 
 
 
