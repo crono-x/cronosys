@@ -23,7 +23,7 @@
     "longitude": 28.9784,
     "category": "Guerras",
     "wikipedia": "https://es.wikipedia.org/wiki/Ca%C3%ADda_de_Constantinopla",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mehmed_II_siege_of_Constantinople.jpg/800px-Mehmed_II_siege_of_Constantinople.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Constantinople-1453.jpg/800px-Constantinople-1453.jpg"
   },
   {
     "id": "event3",
@@ -36,7 +36,7 @@
     "longitude": -2.2426,
     "category": "Avances Científicos",
     "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Industrial",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Industrial_Revolution_Cotton_Mill.jpg/800px-Industrial_Revolution_Cotton_Mill.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Manchester_-_The_Industrial_Revolution_%281%29.jpg"
   },
   {
     "id": "event4",
@@ -49,7 +49,7 @@
     "longitude": 2.3522,
     "category": "Guerras",
     "wikipedia": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/WWI_Montage.jpg/800px-WWI_Montage.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Trench_warfare_in_France.jpg"
   },
   {
     "id": "event5",
@@ -62,7 +62,7 @@
     "longitude": 2.3522,
     "category": "Revoluciones",
     "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Francesa",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Prise_de_la_Bastille.jpg/800px-Prise_de_la_Bastille.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Storming_of_the_Bastille.jpg"
   },
   {
     "id": "event6",
@@ -75,7 +75,7 @@
     "longitude": -75.1652,
     "category": "Revoluciones",
     "wikipedia": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_Independencia_de_los_Estados_Unidos",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Declaration_of_Independence_%281814%29.jpg/800px-Declaration_of_Independence_%281814%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Declaration_of_Independence_1823.jpg/800px-Declaration_of_Independence_1823.jpg"
   },
   {
     "id": "event7",
@@ -88,8 +88,9 @@
     "longitude": 23.4729,
     "category": "Avances Científicos",
     "wikipedia": "https://es.wikipedia.org/wiki/Apollo_11",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Apollo_11_Lunar_Module_on_the_Moon.jpg/800px-Apollo_11_Lunar_Module_on_the_Moon.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Apollo_11_launch.jpg"
   }
 ]
+
 
   
