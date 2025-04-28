@@ -1,9 +1,11 @@
 // Enlazar con tu cuenta de Cesium ion
 Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwYWE4ZmZhYi0xNjcwLTQxNTgtYTI3Mi0wODE5N2VmYjFlZWYiLCJpZCI6Mjk3Njk4LCJpYXQiOjE3NDU3OTc4NDZ9.S3-9XiQwwtzAMpg0OtLbS5BPAB00x3XS3rpZAVL2WLk';
 
-// Inicializar Cesium Viewer
+// Inicializar Cesium Viewer con el cambio en el Terrain Provider
 const viewer = new Cesium.Viewer('cesiumContainer', {
-  terrainProvider: Cesium.createWorldTerrain(), // Esto usa el servicio de terreno de Cesium ion
+  terrainProvider: new Cesium.CesiumTerrainProvider({
+    url: Cesium.IonResource.fromAssetId(1)  // ID del terreno de Cesium Ion
+  }),
   animation: false,
   timeline: true,
   baseLayerPicker: false
