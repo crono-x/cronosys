@@ -1,36 +1,95 @@
 [
-    {
-      "id": "event1",
-      "title": "Descubrimiento de América",
-      "description": "Cristóbal Colón llegó al continente americano en 1492.",
-      "date": "1492-10-12",
-      "year": 1492,
-      "era": "Edad Moderna",
-      "latitude": 25.7617,
-      "longitude": -80.1918,
-      "category": "Descubrimientos"
-    },
-    {
-      "id": "event2",
-      "title": "Caída de Constantinopla",
-      "description": "La ciudad cayó en manos del Imperio Otomano en 1453.",
-      "date": "1453-05-29",
-      "year": 1453,
-      "era": "Edad Media",
-      "latitude": 41.0082,
-      "longitude": 28.9784,
-      "category": "Guerras"
-    },
-    {
-      "id": "event3",
-      "title": "Inicio de la Revolución Industrial",
-      "description": "Comienzo de cambios tecnológicos y sociales en Inglaterra.",
-      "date": "1760-01-01",
-      "year": 1760,
-      "era": "Edad Moderna",
-      "latitude": 53.4808,
-      "longitude": -2.2426,
-      "category": "Avances Científicos"
-    }
-  ]
+  {
+    "id": "event1",
+    "title": "Descubrimiento de América",
+    "description": "Cristóbal Colón llegó al continente americano en 1492.",
+    "date": "1492-10-12",
+    "year": 1492,
+    "era": "Edad Moderna",
+    "latitude": 25.7617,
+    "longitude": -80.1918,
+    "category": "Descubrimientos",
+    "wikipedia": "https://es.wikipedia.org/wiki/Descubrimiento_de_Am%C3%A9rica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/First_Voyage.png/800px-First_Voyage.png"
+  },
+  {
+    "id": "event2",
+    "title": "Caída de Constantinopla",
+    "description": "La ciudad cayó en manos del Imperio Otomano en 1453.",
+    "date": "1453-05-29",
+    "year": 1453,
+    "era": "Edad Media",
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "category": "Guerras",
+    "wikipedia": "https://es.wikipedia.org/wiki/Ca%C3%ADda_de_Constantinopla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mehmed_II_siege_of_Constantinople.jpg/800px-Mehmed_II_siege_of_Constantinople.jpg"
+  },
+  {
+    "id": "event3",
+    "title": "Inicio de la Revolución Industrial",
+    "description": "Comienzo de cambios tecnológicos y sociales en Inglaterra.",
+    "date": "1760-01-01",
+    "year": 1760,
+    "era": "Edad Moderna",
+    "latitude": 53.4808,
+    "longitude": -2.2426,
+    "category": "Avances Científicos",
+    "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Industrial",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Industrial_Revolution_Cotton_Mill.jpg/800px-Industrial_Revolution_Cotton_Mill.jpg"
+  },
+  {
+    "id": "event4",
+    "title": "Primera Guerra Mundial",
+    "description": "Conflicto militar global que duró de 1914 a 1918.",
+    "date": "1914-07-28",
+    "year": 1914,
+    "era": "Edad Contemporánea",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "category": "Guerras",
+    "wikipedia": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/WWI_Montage.jpg/800px-WWI_Montage.jpg"
+  },
+  {
+    "id": "event5",
+    "title": "Revolución Francesa",
+    "description": "Movimiento social y político en Francia que cambió el curso de la historia europea.",
+    "date": "1789-05-05",
+    "year": 1789,
+    "era": "Edad Moderna",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "category": "Revoluciones",
+    "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Francesa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Prise_de_la_Bastille.jpg/800px-Prise_de_la_Bastille.jpg"
+  },
+  {
+    "id": "event6",
+    "title": "Independencia de Estados Unidos",
+    "description": "Declaración de independencia de las Trece Colonias en 1776.",
+    "date": "1776-07-04",
+    "year": 1776,
+    "era": "Edad Moderna",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "category": "Revoluciones",
+    "wikipedia": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_Independencia_de_los_Estados_Unidos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Declaration_of_Independence_%281814%29.jpg/800px-Declaration_of_Independence_%281814%29.jpg"
+  },
+  {
+    "id": "event7",
+    "title": "Llegada del hombre a la Luna",
+    "description": "La misión Apolo 11 logra el primer alunizaje tripulado en 1969.",
+    "date": "1969-07-20",
+    "year": 1969,
+    "era": "Edad Contemporánea",
+    "latitude": 0.6741,
+    "longitude": 23.4729,
+    "category": "Avances Científicos",
+    "wikipedia": "https://es.wikipedia.org/wiki/Apollo_11",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Apollo_11_Lunar_Module_on_the_Moon.jpg/800px-Apollo_11_Lunar_Module_on_the_Moon.jpg"
+  }
+]
+
   

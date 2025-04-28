@@ -21,7 +21,6 @@ async function initCesium() {
       .then(response => response.json())
       .then(events => {
         allEvents = events.map(event => viewer.entities.add({
-          id: event.id,
           position: Cesium.Cartesian3.fromDegrees(event.longitude, event.latitude),
           point: {
             pixelSize: 10,
@@ -41,9 +40,11 @@ async function initCesium() {
           description: `
             <h2>${event.title}</h2>
             <p><strong>Fecha:</strong> ${event.date}</p>
-            <p>${event.description}</p>
             <p><strong>Era:</strong> ${event.era}</p>
-            <p><strong>Tipo:</strong> ${event.category}</p>
+            <p><strong>Tipo de Evento:</strong> ${event.category}</p>
+            <p>${event.description}</p>
+            <p><a href="${event.wikipedia}" target="_blank">🔗 Ver en Wikipedia</a></p>
+            ${event.image ? `<img src="${event.image}" alt="Imagen del evento" style="width:100%; margin-top:10px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.3);">` : ''}
           `,
           properties: event
         }));
@@ -95,4 +96,5 @@ async function initCesium() {
 }
 
 initCesium();
+
 
