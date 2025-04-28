@@ -44,7 +44,6 @@ async function initCesium() {
             <p><strong>Tipo de Evento:</strong> ${event.category}</p>
             <p>${event.description}</p>
             <p><a href="${event.wikipedia}" target="_blank">🔗 Ver en Wikipedia</a></p>
-            ${event.image ? `<img src="${event.image}" alt="Imagen del evento" style="width:100%; margin-top:10px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.3);">` : ''}
           `,
           properties: event
         }));
@@ -96,5 +95,6 @@ async function initCesium() {
 }
 
 initCesium();
+
 
 

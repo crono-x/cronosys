@@ -9,8 +9,7 @@
     "latitude": 25.7617,
     "longitude": -80.1918,
     "category": "Descubrimientos",
-    "wikipedia": "https://es.wikipedia.org/wiki/Descubrimiento_de_Am%C3%A9rica",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/First_Voyage.png/800px-First_Voyage.png"
+    "wikipedia": "https://es.wikipedia.org/wiki/Descubrimiento_de_Am%C3%A9rica"
   },
   {
     "id": "event2",
@@ -22,8 +21,7 @@
     "latitude": 41.0082,
     "longitude": 28.9784,
     "category": "Guerras",
-    "wikipedia": "https://es.wikipedia.org/wiki/Ca%C3%ADda_de_Constantinopla",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Constantinople-1453.jpg/800px-Constantinople-1453.jpg"
+    "wikipedia": "https://es.wikipedia.org/wiki/Ca%C3%ADda_de_Constantinopla"
   },
   {
     "id": "event3",
@@ -35,8 +33,7 @@
     "latitude": 53.4808,
     "longitude": -2.2426,
     "category": "Avances Científicos",
-    "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Industrial",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Manchester_-_The_Industrial_Revolution_%281%29.jpg"
+    "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Industrial"
   },
   {
     "id": "event4",
@@ -48,8 +45,7 @@
     "latitude": 48.8566,
     "longitude": 2.3522,
     "category": "Guerras",
-    "wikipedia": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Trench_warfare_in_France.jpg"
+    "wikipedia": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial"
   },
   {
     "id": "event5",
@@ -61,8 +57,7 @@
     "latitude": 48.8566,
     "longitude": 2.3522,
     "category": "Revoluciones",
-    "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Francesa",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Storming_of_the_Bastille.jpg"
+    "wikipedia": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Francesa"
   },
   {
     "id": "event6",
@@ -74,8 +69,7 @@
     "latitude": 39.9526,
     "longitude": -75.1652,
     "category": "Revoluciones",
-    "wikipedia": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_Independencia_de_los_Estados_Unidos",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Declaration_of_Independence_1823.jpg/800px-Declaration_of_Independence_1823.jpg"
+    "wikipedia": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_Independencia_de_los_Estados_Unidos"
   },
   {
     "id": "event7",
@@ -84,13 +78,13 @@
     "date": "1969-07-20",
     "year": 1969,
     "era": "Edad Contemporánea",
-    "latitude": 0.6741,
-    "longitude": 23.4729,
+    "latitude": 28.6084,
+    "longitude": -80.6041, 
     "category": "Avances Científicos",
-    "wikipedia": "https://es.wikipedia.org/wiki/Apollo_11",
-    "image": "https://es.wikipedia.org/wiki/Archivo:Apollo_11_insignia.png"
+    "wikipedia": "https://es.wikipedia.org/wiki/Apollo_11"
   }
 ]
+
 
 
   
